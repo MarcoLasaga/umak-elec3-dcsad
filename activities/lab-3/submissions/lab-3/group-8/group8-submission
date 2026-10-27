@@ -9,7 +9,7 @@
 
 ## Task 1. Equal subnets
 
-New prefix: `/19`
+New prefix: /19
 
 | # | CIDR | First | Last | Usable | First usable | Last usable |
 |---|---|---|---|---:|---|---|
